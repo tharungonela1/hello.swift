@@ -9,7 +9,7 @@ struct Terminal {
     }
 }
 
-let title = "Hello, Swift!"
+let title = "Hello, Swift! "
 let subtitle = "A tiny program with a little sparkle."
 let timestamp = Date().formatted(date: .abbreviated, time: .standard)
 
