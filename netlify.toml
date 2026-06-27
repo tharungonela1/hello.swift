@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/index.swift"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
